@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saugat Dahal</h1>
-<h3 align="center">I am a aspiring ASP.NET learner with a passion for crafting efficient and dynamic web applications using C#.</h3>
+<h3 align="center">I am a aspiring ASP.NET learner with a passion for crafting efficient and dynamic web applications using .Net framework and React</h3>
 
 - 🔭 I’m currently working on [a fully functional E-commerce app](https://github.com/saugat030/BookStore)
 
